@@ -1,5 +1,3 @@
-# secure-wordpress-aws
-
 # Secure WordPress Deployment on AWS (EC2 + LAMP)
 
 This project demonstrates the secure deployment of a WordPress website on AWS EC2 with a strong focus on **system hardening, application security, monitoring, and resilience**.  
